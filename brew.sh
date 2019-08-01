@@ -33,6 +33,12 @@ casks=(
   handbrake
   transmission
   skype
+  atom
+  sketch
+  1password
+  gitkraken
+  appcleaner
+  iterm2
 )
 
 ###############################################################################
